@@ -6,9 +6,13 @@ This is a demo done as a group project at LumoHacks2018, the idea was to provide
 
 https://kassymkhan919.github.io/about-ptsd.html
 
+## Accomplishment
+  We received top 10 amongst 50 National Teams
+
 ## Authors
 
 * **Kassym Khan**
 * **Firas Fakih**
 * **Murtaza Mushtaq**
 * **Yogesh Mundhra**
+
