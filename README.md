@@ -4,12 +4,11 @@ This is a demo done as a group project at LumoHacks2018, the idea was to provide
 
 ## Deployment
 
-Please follow the link in the description
-
+https://kassymkhan919.github.io/about-ptsd.html
 
 ## Authors
 
+* **Kassym Khan**
 * **Firas Fakih**
 * **Murtaza Mushtaq**
 * **Yogesh Mundhra**
-* **Kassym Ali**
